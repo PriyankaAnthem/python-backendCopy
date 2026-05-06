@@ -3,3 +3,7 @@ python-multipart
 httpx
 pydantic
 starlette
+groq
+anthropic
+
+
