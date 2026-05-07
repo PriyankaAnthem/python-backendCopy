@@ -6,5 +6,5 @@ starlette
 groq
 anthropic
 python-dotenv
-
-
+pymongo[srv]
+PyJWT
